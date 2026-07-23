@@ -1,0 +1,10 @@
+tensorflow[and-cuda]>=2.15.0
+numpy
+scikit-learn
+pandas
+matplotlib
+seaborn
+mne
+pymatreader
+torch
+optuna
